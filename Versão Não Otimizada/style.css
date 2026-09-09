@@ -5,7 +5,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: fbd1e6;
+  background-color: #fbd1e6;
 }
 
 .topo {
@@ -93,7 +93,7 @@ body {
 .rodape {
   clear: both;
   background: #333;
-  color: ffe0f3;
+  color: #ffe0f3;
   text-align: center;
   padding: 20px;
   margin-top: 40px;
