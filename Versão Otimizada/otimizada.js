@@ -1,4 +1,3 @@
-// Interatividade básica sem controle de estados para tecnologias assistivas
 var botao = document.getElementById('btn-mensagem');
 var mensagem = document.getElementById('mensagem-secreta');
 
